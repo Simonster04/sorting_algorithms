@@ -4,6 +4,7 @@
  * bubble_sort - sorts an array of ints in ascending order
  * @array: array with ints
  * @size: size of array
+ * Return: void
  */
 
 void bubble_sort(int *array, size_t size)
